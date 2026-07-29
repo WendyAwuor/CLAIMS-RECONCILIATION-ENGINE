@@ -1,10 +1,5 @@
 # CLAIMS-RECONCILIATION-ENGINe
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## Overview
 
 The **Claims Reconciliation Engine** is a Python-based automation tool developed to reconcile insurance claims payable transactions stored in Microsoft Excel workbooks.
